@@ -1,0 +1,214 @@
+{
+	"tool": [
+		{
+			"name": "FaDe",
+			"author": "DedSecTL",
+			"language": "Python",
+			"description": "Fake deface with kindeditor, fckeditor and webdav is only add new files to the server, without touching anything on the server.",
+			"url": "https://github.com/Gameye98/FaDe"
+		},
+		{
+			"name": "amox",
+			"author": "DedSecTL",
+			"language": "Java",
+			"description": "Find backdoor or shell planted on a site via dictionary attack",
+			"url": "https://gitlab.com/dtlily/amox"
+		},
+		{
+			"name": "GINF",
+			"author": "DedSecTL",
+			"language": "PHP",
+			"description": "Using Github API to gathering information about the user, repository, follower and also the following.",
+			"url": "https://github.com/Gameye98/GINF"
+		},
+		{
+			"name": "inther",
+			"author": "DedSecTL",
+			"language": "Ruby",
+			"description": "information gathering using shodan, censys and more.",
+			"url": "https://github.com/Gameye98/inther"
+		},
+		{
+			"name": "OWScan",
+			"author": "DedSecTL",
+			"language": "PHP",
+			"description": "Scan your website for vulnerabilities. Find website application vulnerabilities and fingerprint the target web application.",
+			"url": "https://github.com/Gameye98/OWScan"
+		},
+		{
+			"name": "Lazymux",
+			"author": "DedSecTL",
+			"language": "Python",
+			"description": "Best tools installer and its very easy to use, only provided for lazy termux users.",
+			"url": "https://github.com/Gameye98/Lazymux"
+		},
+		{
+			"name": "LiteOTP",
+			"author": "Cvar1984",
+			"language": "PHP",
+			"description": "Simple OTP API Client",
+			"url": "https://github.com/Cvar1984/LiteOTP"
+		},
+		{
+			"name": "Katak",
+			"author": "DedSecTL",
+			"language": "Python",
+			"description": "This tool is an open source software login brute-forcer toolkit and hash decrypter",
+			"url": "https://github.com/Gameye98/Katak"
+		},
+		{
+			"name": "leet1998",
+			"author": "BlackHole Security",
+			"language": "Unknown",
+			"description": "Collection of useful script",
+			"url": "https://github.com/BlackHoleSecurity/leet1998"
+		},
+		{
+			"name": "Spyder",
+			"author": "Cvar1984",
+			"language": "PHP",
+			"description": "Best tool that has many functions that will greatly help its users. In fact I think this tool is one of the best tools of many vulnerability scanner tools. Spyder also has one exploit, exploit elfinder and Spyder also has CMS Scan for detect cms and Spyder really helpful for find the admin panel and upload panel via dictionary attack.",
+			"url": "https://github.com/Cvar1984/Spyder"
+		},
+		{
+			"name": "OSIF",
+			"author": "CiKu370",
+			"language": "Python",
+			"description": "Accurate facebook account information gathering, all sensitive information can be easily gathered even though the target converts all of its privacy to (only me), though the data will still be easy to collect. Sensitive information about residence, date of birth, occupation, phone number and email address.",
+			"url": "https://github.com/CiKu370/OSIF"
+		},
+		{
+			"name": "hasher",
+			"author": "CiKu370",
+			"language": "Python",
+			"description": "Hasher is a Hash Cracker that has supported more than 7 types of hashes",
+			"url": "https://github.com/CiKu370/hasher"
+		},
+		{
+			"name": "Kawai-Botnet",
+			"author": "Cvar1984",
+			"language": "PHP",
+			"description": "Proxy Botnet used for DoS attack purposes with a type of attack on a computer or server on the Internet network. This attack willresult in loss of service to the user, loss of network and service connectivity, by consuming bandwidth from the victim's network or overloading the victim's computing system resources.",
+			"url": "https://github.com/Cvar1984/Kawai-Botnet"
+		},
+		{
+			"name": "Ecode",
+			"author": "Cvar1984",
+			"language": "PHP",
+			"description": "PHP Encode & Decode Web / CLI",
+			"url": "https://github.com/Cvar1984/Ecode"
+		},
+		{
+			"name": "CCgv",
+			"author": "[M]izun0",
+			"language": "Python",
+			"description": "Credit Card Generator and Validator",
+			"url": "https://github.com/sushiroku1/CCgv"
+		},
+		{
+			"name": "textr",
+			"author": "amsitlab",
+			"language": "Java",
+			"description": "A simple text runner for Termux App.",
+			"url": "https://github.com/amsitlab/textr"
+		},
+		{
+			"name": "WipeDC",
+			"author": "Mr.0wL",
+			"language": "Shell",
+			"description": "Wipeout Dalvik-cache",
+			"url": "https://www.datafilehost.com/d/0a438e54"
+		},
+		{
+			"name": "WebKit",
+			"author": "CiKu370",
+			"language": "Python",
+			"description": "Basic Information Gathering Tool should not be underestimated because the information collected is not small and all of it is sensitive information. There are whois lookup, zone-test, dns lookup and others. Basic information gathering performs accurate data collection and analysis and WebKit uses open source.",
+			"url": "https://github.com/CiKu370/WebKit"
+		},
+		{
+			"name": "AdBlocker",
+			"author": "Mr.0wL",
+			"language": "Shell",
+			"description": "A piece of software designed to prevent advertisements from appearing on a web page",
+			"url": "https://www.datafilehost.com/d/ced48624"
+		},
+		{
+			"name": "ApSca",
+			"author": "DedSecTL",
+			"language": "Java",
+			"description": "ApSca is a powerful web penetration application which finds admin panel, upload panel, shell, hidden file, hidden page and other sensitive information via dictionary attack, the best CLI tool for finding vulnerability on a website and it performs specific checks.",
+			"url": "https://github.com/BlackHoleSecurity/apsca"
+		},
+		{
+			"name": "sqlscan",
+			"author": "Cvar1984",
+			"language": "PHP",
+			"description": "sqlscan is a tool created to search for vuln / bugs sql inject on a web that is in select or its slang term (narget), also equipped admin finder with accurate wordlist, so you have no trouble finding login page.\nHidden Webshell\nDefault password : tersembunyi",
+			"url": "https://github.com/Cvar1984/sqlscan"
+		},
+		{
+			"name": "oSpam",
+			"author": "[M]izun0",
+			"language": "Python",
+			"description": "OTP SPAMMER (SMS/CALL) ( +62 Only )",
+			"url": "https://github.com/sushiroku1/oSpam"
+		},
+		{
+			"name": "xd3v",
+			"author": "DedSecTL",
+			"language": "Shell",
+			"description": "Powerful tool that lets you know all the essential details about your phone. Whether it's information about your Chip (SoC) System, device memory or technical specifications about the battery or any relevant information about your device.",
+			"url": "http://upfile.mobi/SdMqgOaedcl"
+		},
+		{
+			"name": "GCup",
+			"author": "DjoSec12",
+			"language": "Python",
+			"description": "Git Clone Using Python",
+			"url": "https://www.datafilehost.com/d/14ee0fe5"
+		},
+		{
+			"name": "VCRT",
+			"author": "DERAY",
+			"language": "Python",
+			"description": "Virus Creator",
+			"url": "https://www.datafilehost.com/d/1df90c9d"
+		},
+		{
+			"name": "Termux-Whatsapp-Hang",
+			"author": "amsitlab",
+			"language": "Shell",
+			"description": "Copy hex decimal (unicode) text to android clipboard",
+			"url": "https://github.com/amsitlab/termux-whatsapp-hang"
+		},
+		{
+			"name": "APAFI",
+			"author": "DedSecTL",
+			"language": "Python",
+			"description": "APAFI simplify your work by looking for the admin panels via dictionary attack. Sometimes very difficult to find the admin panels of the site you are targeting and suddenly you realize what's going on. Foolie Urself* Am I a fool? Just use admin panel finder you ass dumb.",
+			"url": "https://github.com/Gameye98/APAFI"
+		},
+		{
+			"name": "Termux-Launcher",
+			"author": "amsitlab",
+			"language": "Java",
+			"description": "Make termux as launcher without hack anything of the original application. This application just make termux as launcher, not modify/hack/replace termux application & termux application must be installed on your device before use this application.",
+			"url": "https://github.com/amsitlab/termuxlauncher"
+		},
+		{
+			"name": "SpazSMS",
+			"author": "DedSecTL",
+			"language": "Python",
+			"description": "SpazSMS uses the registration message API to send unsolicited messages (spam), as well as sending messages repeatedly on the same phone number.",
+			"url": "https://github.com/Gameye98/SpazSMS"
+		},
+		{
+			"name": "ZipCrack",
+			"author": "Bang Djon",
+			"language": "Python",
+			"description": "Zip Password Cracker.",
+			"url": "https://www.datafilehost.com/d/a36793ec"
+		}
+	]
+}
